@@ -1,7 +1,7 @@
 # manual-qa-portfolio
 This repository contains my Manual QA learning journey during the Goit online course. 
 Here you can find:
-- couse assignments;
+- course assignments;
 - task requirements and acceptance criteria;
 - my completed solutions;
 - practical exercises in SQL, API testing, DevTools and Basic Test Documentation
