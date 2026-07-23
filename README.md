@@ -1,4 +1,4 @@
-# QA_study_training_cources
+# manual-qa-portfolio
 This repository contains my Manual QA learning journey during the Goit online course. 
 Here you can find:
 - couse assignments;
